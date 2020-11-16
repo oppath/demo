@@ -7,7 +7,7 @@
     <title>Demo</title>
 </head>
 
-<body style="background-color: blue;">
+<body style="background-color: white;">
     <h1>Welcome</h1>
 </body>
 
