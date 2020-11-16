@@ -1,2 +1,2 @@
 # demo
-test project for learning git
+Jenkin demo repo
