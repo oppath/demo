@@ -7,7 +7,7 @@
     <title>Demo</title>
 </head>
 
-<body style="background-color: green;">
+<body style="background-color: white;">
     <h1>Jenkins Demo</h1>
 </body>
 
