@@ -7,8 +7,8 @@
     <title>Demo</title>
 </head>
 
-<body style="background-color: white;">
-    <h1>Welcome</h1>
+<body style="background-color: red;">
+    <h1>Jenkins Demo</h1>
 </body>
 
 </html>
